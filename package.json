@@ -1,0 +1,23 @@
+{
+  "name": "execlog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/greggsoft/execlog.git"
+  },
+  "keywords": [
+    "exec",
+    "log"
+  ],
+  "author": "Mikhail Menshenin <greggsoft@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greggsoft/execlog/issues"
+  },
+  "homepage": "https://github.com/greggsoft/execlog#readme"
+}
